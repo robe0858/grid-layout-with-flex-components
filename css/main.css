@@ -42,3 +42,7 @@ body {
     align-self: center;
     order: -1;
   }
+
+  p {
+    flex-basis: 100%;
+  }
